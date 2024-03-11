@@ -1,4 +1,4 @@
-# About
+# chick-2druby
 
 egg up the stairs 2D Game written in Ruby with the [ruby2d](https://github.com/ruby2d/ruby2d) framework
 
